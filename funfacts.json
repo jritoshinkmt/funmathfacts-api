@@ -1,0 +1,23 @@
+[
+  { "fact": "Mathematics is the language with which God has written the universe." },
+  { "fact": "The number pi is irrational, meaning its decimal expansion never ends or repeats." },
+  { "fact": "Fibonacci sequence appears in nature, from the arrangement of leaves to the growth patterns of plants." },
+  { "fact": "A perfect square is a number that can be expressed as the product of an integer multiplied by itself." },
+  { "fact": "Pythagorean theorem can help determine the length of the hypotenuse in right triangles." },
+  { "fact": "The number e (Euler’s number) is the base of natural logarithms, and it appears in many growth patterns like population dynamics." },
+  { "fact": "In a right triangle, the sum of the squares of the two shorter sides equals the square of the hypotenuse. This is known as the Pythagorean Theorem." },
+  { "fact": "Golden ratio (1.618) is often seen in nature, art, architecture, and even financial markets." },
+  { "fact": "Zero is the only number that can’t be represented by Roman numerals." },
+  { "fact": "Every positive integer is either a prime or can be factored into primes; this is known as the Fundamental Theorem of Arithmetic." },
+  { "fact": "In the Fibonacci sequence, each number is the sum of the two preceding ones, starting from 0 and 1. It is present in the spiral patterns of shells and galaxies." },
+  { "fact": "Mathematics helps us describe the probabilities of various events, such as winning in games of chance, or predicting outcomes in finance." },
+  { "fact": "The number 108 is often found in religious practices, especially in Hinduism and Buddhism, where malas or prayer beads have 108 beads." },
+  { "fact": "The sum of all integers from 1 to 100 is 5050. This sum was famously calculated by mathematician Carl Friedrich Gauss when he was a child." },
+  { "fact": "Graphs and algorithms in computer science are crucial in cryptography, allowing secure communications on the internet." },
+  { "fact": "Blockchain technology, which underpins cryptocurrencies like Bitcoin, relies on cryptographic algorithms to secure transactions." },
+  { "fact": "When the Bitcoin network solves a mathematical problem, a 'block' is added to the blockchain, making transactions irreversible and secure." },
+  { "fact": "The square root of 2 is irrational, and it was one of the first irrational numbers to be discovered by the ancient Greeks." },
+  { "fact": "The use of probability and statistics helps determine fair prices in options trading and risk management." },
+  { "fact": "In cryptography, prime numbers play a key role in creating secure encryption keys, like in RSA algorithm." },
+  { "fact": "Graph theory, a branch of mathematics, is used in analyzing connections in social media networks and the structure of blockchain networks." }
+]
