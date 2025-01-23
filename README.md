@@ -3,7 +3,7 @@ an api that serves random fun facts about how maths is involved in everyday acti
 _this project is just for testing, practice, and educational purposes on how to use/call an API._
 
 ## How to Use 
-- start the server by running the script: `node index.js`.
+- start the server by running the script: `node index.js`
 - once the server is running, it will be accessible at `http://localhost:3000`
 
 ### API Endpoint 
